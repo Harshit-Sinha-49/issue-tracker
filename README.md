@@ -3,6 +3,19 @@
 ### Description:
 The Issue Tracker Application is a web-based tool built using Node.js and TypeScript for the backend, React for the frontend, and Tailwind CSS for styling. The application aims to provide a streamlined process for users to submit, track, and manage issues efficiently. Users can authenticate themselves using Google Cloud OAuth, ensuring secure access to the application. The submitted issues are stored in a MySQL database managed by Prisma ORM.
 
+### My Technology Stack
+Here are the technologies I used in this project:
+
+<div style="display: flex; flex-direction: row;">
+<img src="Images/typescript.png" width="75" height="75" style="margin-right: 15px;">
+<img src="Images/icons8-nodejs-128.png" width="75" height="75" style="margin-right: 15px;">
+<img src="Images/icons8-prisma-orm-100.png" width="75" height="75" style="margin-right: 15px;">
+<img src="Images/icons8-tailwind-css-144.png" width="75" height="75" style="margin-right: 15px;">
+<img src="Images/icons8-react-120.png" width="75" height="75" style="margin-right: 15px;">
+<img src="Images/icons8-mysql-100.png" width="75" height="75" style="margin-right: 15px;">
+</div>
+
+
 ### Features:
 
 - User Authentication: Users can securely authenticate using Google Cloud OAuth, ensuring their identity and protecting the application from unauthorized access.
