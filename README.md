@@ -18,19 +18,19 @@ Here are the technologies I used in this project:
 
 ### Features:
 
-- User Authentication: Users can securely authenticate using Google Cloud OAuth, ensuring their identity and protecting the application from unauthorized access.
+- **User Authentication:** Users can securely authenticate using Google Cloud OAuth, ensuring their identity and protecting the application from unauthorized access.
 
-- Issue Submission: Authenticated users can submit issues via a user-friendly interface. They can provide detailed descriptions, tags, and priority levels for each issue.
+- **Issue Submission:** Authenticated users can submit issues via a user-friendly interface. They can provide detailed descriptions, tags, and priority levels for each issue.
 
-- Issue Tracking: The application allows users to track the status of submitted issues. Each issue can be in one of the predefined states: submitted, in-progress, or resolved.
+- **Issue Tracking:** The application allows users to track the status of submitted issues. Each issue can be in one of the predefined states: submitted, in-progress, or resolved.
 
-- State Management: The frontend interface dynamically updates to reflect the current state of each issue. Users can easily identify which issues are pending, being worked on, or resolved.
+- **State Management:** The frontend interface dynamically updates to reflect the current state of each issue. Users can easily identify which issues are pending, being worked on, or resolved.
 
-- Database Integration: Prisma ORM is used to interact with the MySQL database, providing seamless integration and efficient data handling.
+- **Database Integration:** Prisma ORM is used to interact with the MySQL database, providing seamless integration and efficient data handling.
 
-- Responsive UI: The frontend UI is built using React, ensuring a responsive and intuitive user experience across different devices and screen sizes.
+- **Responsive UI:** The frontend UI is built using React, ensuring a responsive and intuitive user experience across different devices and screen sizes.
 
-- Styling with Tailwind CSS: Tailwind CSS is utilized for styling, enabling rapid development and customization of the user interface.
+- **Styling with Tailwind CSS:** Tailwind CSS is utilized for styling, enabling rapid development and customization of the user interface.
 
 
 
