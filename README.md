@@ -35,3 +35,15 @@ Here are the technologies I used in this project:
 
 
 Overall, the Issue Tracker Application provides a robust solution for teams and organizations to effectively manage and resolve issues, ensuring smooth workflow and enhanced productivity. With its user-friendly interface, secure authentication, and comprehensive features, it serves as an indispensable tool for tracking and resolving issues in various projects and domains.
+
+
+### Output Images
+Here are the Output images of this project:
+
+<div style="display: flex; flex-direction: row;">
+<img src="Images/Output/Dashboard Image - 1.jpg" width="100" style="margin-right: 25px;">
+<img src="Images/Output/Dashboard Image -2.jpg" width="100" style="margin-right: 25px;">
+<img src="Images/Output/Issue Image.jpg" width="100" style="margin-right: 25px;">
+<img src="Images/Output/Authentication.jpg" width="100" style="margin-right: 25px;">
+<img src="Images/Output/Google Authentication.jpg" width="100" style="margin-right: 25px;">
+</div>
