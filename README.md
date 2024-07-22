@@ -38,7 +38,7 @@ Overall, the Issue Tracker Application provides a robust solution for teams and 
 
 
 ### Output Images
-Here are the Output images of this project:
+Here are some Output images of this project:
 
 <div style="display: flex; flex-direction: row;">
 <img src="Images/Output/Dashboard Image - 1.jpg" width="500" style="margin-right: 50; margin-bottom: 50;">
