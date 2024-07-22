@@ -41,9 +41,9 @@ Overall, the Issue Tracker Application provides a robust solution for teams and 
 Here are the Output images of this project:
 
 <div style="display: flex; flex-direction: row;">
-<img src="Images/Output/Dashboard Image - 1.jpg" width="505" style="margin-right: 50; margin-bottom: 50;">
-<img src="Images/Output/Dashboard Output -2.jpg" width="505" style="margin-right: 50; margin-bottom: 50;">
-<img src="Images/Output/Issue Image.jpg" width="505" style="margin-right: 50; margin-bottom: 50;">
-<img src="Images/Output/Authentication.jpg" width="505" style="margin-right: 50; margin-bottom: 50;">
-<img src="Images/Output/Google Authentication.jpg" width="505" style="margin-right: 50; margin-bottom: 50;">
+<img src="Images/Output/Dashboard Image - 1.jpg" width="500" style="margin-right: 50; margin-bottom: 50;">
+<img src="Images/Output/Dashboard Output -2.jpg" width="500" style="margin-right: 50; margin-bottom: 50;">
+<img src="Images/Output/Issue Image.jpg" width="500" style="margin-right: 50; margin-bottom: 50;">
+<img src="Images/Output/Authentication.jpg" width="500" style="margin-right: 50; margin-bottom: 50;">
+<img src="Images/Output/Google Authentication.jpg" width="500" style="margin-right: 50; margin-bottom: 50;">
 </div>
