@@ -3,10 +3,10 @@
 <br>
 </p>
 
-### Description:
+## Description:
 The Issue Tracker Application is a web-application built using Nextjs and TypeScript for frontend as well as backend and Tailwind CSS for styling. The application aims to provide a streamlined process for users to submit, track, and manage issues efficiently. Users can authenticate themselves using Google Cloud OAuth, ensuring secure access to the application. The submitted issues are stored in a MySQL database managed by Prisma ORM.
 
-### Techn Stack
+## Techn Stack
 <div style="display: flex; flex-direction: row;">
 <img src="Images/typescript.png" width="75" height="75" style="margin-right: 25px;">
 <img src="Images/next-js.svg" width="75" height="75" style="margin-right: 25px;">
@@ -22,7 +22,7 @@ The Issue Tracker Application is a web-application built using Nextjs and TypeSc
 `Database` : MySQL,Prisma ORM <br>
 `Authentication` : Nextauth, Google cloud OAuth <br>
 
-### Screenshots
+## Screenshots
 Here are some Output images of this project:
 
 <div style="display: flex; flex-direction: row; padding-bottom: 30">
@@ -36,7 +36,7 @@ Here are some Output images of this project:
 <img src="Images/Output/Google Authentication.jpg" width="800" style="margin-right: 50; margin-bottom: 50;">
 </div>
 
-### Features:
+## Features:
 
 - **User Authentication:** Users can securely authenticate using Google Cloud OAuth, ensuring their identity and protecting the application from unauthorized access.
 
