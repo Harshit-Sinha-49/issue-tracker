@@ -40,7 +40,7 @@ Here are some Output images of this project:
 
 - **User Authentication:** Users can securely authenticate using Google Cloud OAuth, ensuring their identity and protecting the application from unauthorized access.
 
-- **Issue Submission:** Authenticated users can submit issues via a user-friendly interface. They can provide detailed descriptions, tags, and priority levels for each issue.
+- **Issue Submission:** Authenticated users can submit issues via a user-friendly interface. They can provide suitable title and detailed descriptions for the issue.
 
 - **Issue Tracking:** The application allows users to track the status of submitted issues. Each issue can be in one of the predefined states: submitted, in-progress, or resolved.
 
@@ -48,10 +48,9 @@ Here are some Output images of this project:
 
 - **Database Integration:** Prisma ORM is used to interact with the MySQL database, providing seamless integration and efficient data handling.
 
-- **Responsive UI:** The frontend UI is built using React, ensuring a responsive and intuitive user experience across different devices and screen sizes.
+- **Responsive UI:** The frontend UI is built using Next.js, ensuring a responsive and intuitive user experience across different devices and screen sizes.
 
 - **Styling with Tailwind CSS:** Tailwind CSS is utilized for styling, enabling rapid development and customization of the user interface.
-
 
 
 Overall, the Issue Tracker Application provides a robust solution for teams and organizations to effectively manage and resolve issues, ensuring smooth workflow and enhanced productivity. With its user-friendly interface, secure authentication, and comprehensive features, it serves as an indispensable tool for tracking and resolving issues in various projects and domains.
