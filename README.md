@@ -1,10 +1,13 @@
 [Next.JS](https://nextjs.org/docs)
 # Issue Tracker Application
+</p>
+<h1 align = 'center'>Issue Tracker Application</h1>
+<br>
 
 ### Description:
-The Issue Tracker Application is a web-based tool built using Nextjs and TypeScript for the backend, React for the frontend, and Tailwind CSS for styling. The application aims to provide a streamlined process for users to submit, track, and manage issues efficiently. Users can authenticate themselves using Google Cloud OAuth, ensuring secure access to the application. The submitted issues are stored in a MySQL database managed by Prisma ORM.
+The Issue Tracker Application is a web-application built using Nextjs and TypeScript for frontend as well as backend and Tailwind CSS for styling. The application aims to provide a streamlined process for users to submit, track, and manage issues efficiently. Users can authenticate themselves using Google Cloud OAuth, ensuring secure access to the application. The submitted issues are stored in a MySQL database managed by Prisma ORM.
 
-### My Technology Stack
+### Techn Stack
 Here are the technologies I used in this project:
 
 <div style="display: flex; flex-direction: row;">
@@ -16,6 +19,24 @@ Here are the technologies I used in this project:
 <img src="Images/icons8-mysql-100.png" width="75" height="75" style="margin-right: 25px;">
 </div>
 
+`Frontend` : Next.js,Tailwind CSS <br>
+`Backend` : Next.js <br>
+`Database` : MySQL,Prisma ORM <br>
+`Authentication` : Nextauth, Google cloud OAuth <br>
+
+### Screenshots
+Here are some Output images of this project:
+
+<div style="display: flex; flex-direction: row; padding-bottom: 30">
+<h3> Dashboard: </h3>
+<img src="Images/Output/Dashboard Image - 1.jpg" width="800" style="margin-right: 50; margin-bottom: 50;">
+<img src="Images/Output/Dashboard Output -2.jpg" width="800" style="margin-right: 50; margin-bottom: 50;">
+<h3> Issue: </h3>
+<img src="Images/Output/Issue Image.jpg" width="800" style="margin-right: 50; margin-bottom: 50;">
+<h3> Google Authentication: </h3>
+<img src="Images/Output/Authentication.jpg" width="800" style="margin-right: 50; margin-bottom: 50;">
+<img src="Images/Output/Google Authentication.jpg" width="800" style="margin-right: 50; margin-bottom: 50;">
+</div>
 
 ### Features:
 
@@ -37,14 +58,3 @@ Here are the technologies I used in this project:
 
 Overall, the Issue Tracker Application provides a robust solution for teams and organizations to effectively manage and resolve issues, ensuring smooth workflow and enhanced productivity. With its user-friendly interface, secure authentication, and comprehensive features, it serves as an indispensable tool for tracking and resolving issues in various projects and domains.
 
-
-### Output Images
-Here are some Output images of this project:
-
-<div style="display: flex; flex-direction: row; padding-bottom: 30">
-<img src="Images/Output/Dashboard Image - 1.jpg" width="800" style="margin-right: 50; margin-bottom: 50;">
-<img src="Images/Output/Dashboard Output -2.jpg" width="800" style="margin-right: 50; margin-bottom: 50;">
-<img src="Images/Output/Issue Image.jpg" width="800" style="margin-right: 50; margin-bottom: 50;">
-<img src="Images/Output/Authentication.jpg" width="800" style="margin-right: 50; margin-bottom: 50;">
-<img src="Images/Output/Google Authentication.jpg" width="800" style="margin-right: 50; margin-bottom: 50;">
-</div>
