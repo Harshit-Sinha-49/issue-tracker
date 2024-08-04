@@ -1,3 +1,4 @@
+[Next.JS](https://nextjs.org/docs)
 # Issue Tracker Application
 
 ### Description:
