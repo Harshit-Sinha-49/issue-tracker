@@ -1,8 +1,7 @@
-[Next.JS](https://nextjs.org/docs)
-# Issue Tracker Application
 </p>
 <h1 align = 'center'>Issue Tracker Application</h1>
 <br>
+</p>
 
 ### Description:
 The Issue Tracker Application is a web-application built using Nextjs and TypeScript for frontend as well as backend and Tailwind CSS for styling. The application aims to provide a streamlined process for users to submit, track, and manage issues efficiently. Users can authenticate themselves using Google Cloud OAuth, ensuring secure access to the application. The submitted issues are stored in a MySQL database managed by Prisma ORM.
