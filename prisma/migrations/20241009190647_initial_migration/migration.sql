@@ -1,3 +1,4 @@
+set sql_require_primary_key = off;
 -- CreateTable
 CREATE TABLE `Issue` (
     `id` INTEGER NOT NULL AUTO_INCREMENT,
